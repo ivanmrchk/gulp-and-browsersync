@@ -1,0 +1,24 @@
+{
+  "name": "gulp-borwser-sync",
+  "version": "1.0.0",
+  "description": "gulp with browsersync and other goodies",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.3.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-sass": "^4.0.1",
+    "node-neat": "^2.0.0-beta.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Ivan Marchenko",
+  "license": "MIT"
+}
