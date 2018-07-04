@@ -33,6 +33,12 @@ $ gulp --tasks
  - add imagemin
  - add notifier 
 
+
+### Special thanks to: 
+
+  - [DESIGNfromWITHIN](https://github.com/DESIGNfromWITHIN)
+  - [feliperoberto](https://github.com/feliperoberto)
+
 License
 ----
 
