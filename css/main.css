@@ -1,5 +1,24 @@
-body {
+.wrapper {
   font-size: 18px;
-  color: yellow !important; }
-  body p {
-    color: red; }
+  color: #333;
+  padding: 50px;
+  height: calc( 100vh - 200px);
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 5px;
+  background: whitesmoke; }
+  .wrapper h1 {
+    text-align: center; }
+  .wrapper h2 {
+    margin-top: 100px;
+    margin-left: 50px; }
+  .wrapper ul {
+    margin-left: 50px;
+    list-style: none;
+    width: 60%; }
+    .wrapper ul li {
+      line-height: 50px;
+      margin-bottom: 10px;
+      background: #eee;
+      padding-left: 15px; }
